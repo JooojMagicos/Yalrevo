@@ -1,0 +1,3 @@
+pyirsdk # responsavel por ler a memoria do iracing v 1.3.5
+dearpygui # responsavel por criar a interface grafica v 2.3.1
+pywin32 # responsavel por acessar a memoria do windows v 311
